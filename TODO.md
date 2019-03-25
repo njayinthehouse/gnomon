@@ -1,0 +1,2 @@
+- Mail Ramsey
+- Try to model the tensor type system using abstract interpretation
